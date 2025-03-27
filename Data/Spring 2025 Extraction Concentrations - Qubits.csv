@@ -1,0 +1,334 @@
+Number,Poppy Box ID,Population,Family,Individual,Label,Volume Sample Used (ul),Concentration (ng/ul),Approx. Volume (ul),Approx. Total DNA (ng),Notes,Library Type
+1,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,4,2,P3F4I2,1,8.76,20,175.2,,low_input
+2,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,4,4,P3F4I4,1,2.00,15.00,30,,low_input
+3,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,30,2,P3F30I2,1,4.14,10,41.4,small tube,low_input
+4,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,8,3,P3F8I3,1,8.46,10,84.6,,low_input
+8,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,19,2,P3F19I2,1,2.76,40,110.4,3.24 clear,low_input
+10,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,20,4,P3F20I4,1,2.58,40,103.2,,low_input
+13,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,24,1,P3F24I1,1,1.02,110,112.2,,low_input
+14,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,25,3,P3F25I3,1,1.23,110,135.3,,low_input
+21,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,24,1,P4F24I1,1,2.22,30,66.6,,low_input
+22,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,28,2,P4F28I2,1,2.12,20,42.4,,low_input
+27,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,24,2,P5F24I2,1,3.23,12,38.76,,low_input
+28,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,3,1,P5F3I1,1,3.66,10,36.6,,low_input
+29,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,11,1,P5F11I1,1,2.66,5,13.3,,low_input
+30,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,20,2,P5F20I2,1,4.24,11,46.64,,low_input
+31,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,21,4,P5F21I4,1,4.92,11,54.12,,low_input
+32,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,23,3,P5F23I3,1,2.59,11,28.49,forgot to calc stock conc,low_input
+33,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,6,9,2,P6F9I2,1,3.22,50,161,,low_input
+34,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,6,33,3,P6F33I3,1,2.78,11,30.58,,low_input
+35,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,6,27,3,P6F27I3,1,3.50,10.00,35,,low_input
+36,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,6,29,1,P6F29I1,1,8.74,6,52.44,,low_input
+38,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,6,13,3,P6F13I3,1,9.06,6,54.36,,low_input
+39,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,6,31,3,P6F31I3,1,3.64,11,40.04,,low_input
+40,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,2,1,P7F2I1,1,6.48,8,51.84,,low_input
+41,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,5,3,P7F5I3,1,6.64,13,86.32,SIDE OF TUBE AND TOP DIFFER IN FAMILY,low_input
+44,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,14,1,P7F14I1,1,19.9,6,119.4,,low_input
+46,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,28,1,P7F28I1,1,2.44,80,195.2,,low_input
+47,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,24,1,P7F24I1,1,3.70,18.00,66.6,,low_input
+48,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,10,4,P7F10I4,1,2.62,17,44.54,,low_input
+49,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,22,2,P7F22I2,1,7.56,14,105.84,,low_input
+52,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,12,1,P7F12I1,1,9.86,12,118.32,,low_input
+53,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,31,1,P8F31I1,1,2.72,13,35.36,,low_input
+54,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,30,2,P8F30I2,1,0.624,35,21.84,,low_input
+58,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,26,1,P8F26I1,1,0.494,25,12.35,,low_input
+59,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,30,1,P8F30I1,1,11.2,2,22.4,,low_input
+60,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,4,4,P8F4I4,1,5.04,5,25.2,,low_input
+61,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,16,2,P8F16I2,1,5.46,12,65.52,,low_input
+63,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,15,2,P9F15I2,1,0.704,45,31.68,,low_input
+66,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,10,3,P9F10I3,1,2.84,28,79.52,,low_input
+67,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,21,3,P9F21I3,1,2.04,110,224.4,clear tube: 2.30,low_input
+68,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,4,2,P9F4I2,1,2.24,15,33.6,,low_input
+70,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,15,2,P9F15I2,1,5.3,3,15.9,,low_input
+81,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,10,30,3,P10F30I3,1,1.60,10.00,16,,low_input
+82,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,26,3,P10F26I3,1,1.25,10,12.5,,low_input
+83,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,34,4,P10F34I4,1,4.38,5,21.9,,low_input
+84,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,31,2,P10F31I2,1,15.1,15,226.5,,low_input
+86,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,22,1,P10F22I1,1,18.5,12,222,,low_input
+87,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,32,1,P10F32I1,1,22.8,5,114,,low_input
+89,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,27,2,P10F27I2,1,1.98,80,158.4,,low_input
+94,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,28,2,P10F28I2,,7.76,10,77.6,,low_input
+96,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,8,1,P11F8I1,,47.8,1,47.8,,low_input
+98,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,5,3,P11F5I3,,3.58,5,17.9,,low_input
+104,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,15,1,P11F15I1,,15.3,3,45.9,,low_input
+106,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,17,3,P11F17I3,,3.26,5,16.3,,low_input
+107,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,18,3,P11F18I3,,9.06,5,45.3,,low_input
+110,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,21,2,P11F21I2,,7.38,8,59.04,,low_input
+114,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,26,4,P11F26I4,,7.76,7,54.32,,low_input
+119,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,6,3,P11F6I3,,2.20,80,176,LOTS IN TUBE,low_input
+120,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,7,2,P11F7I2,,2.20,50,110,,low_input
+121,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,11,1,P12F11I1,,6.72,10,67.2,,low_input
+122,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,12,1,P12F12I1,1,4.64,6,27.84,,low_input
+125,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,17,4,P12F17I4,1,23.2,8,185.6,,low_input
+126,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,18,2,P12F18I2,1,17.0,7,119,,low_input
+127,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,6,1,P12F6I1,1,1.49,7,10.43,,low_input
+128,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,1,1,P12F1I1,1,9.12,7,63.84,,low_input
+136,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,18,3,P12F18I3,1,4.58,8,36.64,,low_input
+139,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,15,4,P13F15I4,1,3.90,8,31.2,,low_input
+141,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,1,3,P13F1I3,1,9.82,3,29.46,,low_input
+142,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,2,2,P13F2I2,1,6.34,6,38.04,,low_input
+143,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,3,1,P13F3I1,1,2.46,6,14.76,,low_input
+145,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,5,1,P13F5I1,1,2.56,57,145.92,,low_input
+147,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,6,2,P13F6I2,1,3.84,6,23.04,,low_input
+148,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,8,1,P13F8I1,1,2.04,15,30.6,,low_input
+149,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,11,3,P13F11I3,1,2.56,9,23.04,,low_input
+150,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,13,2,P13F13I2,1,10.3,8,82.4,,low_input
+151,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,17,1,P13F17I1,1,11.9,4,47.6,,low_input
+152,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,18,3,P13F18I3,1,8.98,5,44.9,,low_input
+153,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,20,2,P13F20I2,1,11.8,1,11.8,,low_input
+154,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,21,3,P13F21I3,1,2.22,5,11.1,,low_input
+155,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,22,1,P13F22I1,1,4.80,7,33.6,,low_input
+156,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,23,2,P13F23I2,1,1.97,11,21.67,,low_input
+157,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,24,1,P13F24I1,1,0.412,27,11.124,,low_input
+158,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,11,2,P13F11I2,1,17.7,6,106.2,,low_input
+159,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,22,3,P13F22I3,1,1.78,12,21.36,,low_input
+161,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,16,2,P13F16I2,1,1.20,53,63.6,,low_input
+162,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,14,2,P13F14I2,1,6.24,2,12.48,,low_input
+163,PCN XYGE PERE DNA Extractions (LG) P14-16,14,1,4,P14F1I4,1,2.14,13,27.82,,low_input
+165,PCN XYGE PERE DNA Extractions (LG) P14-16,14,3,3,P14F3I3,1,3.04,6,18.24,,low_input
+166,PCN XYGE PERE DNA Extractions (LG) P14-16,14,5,1,P14F5I1,1,4.34,10,43.4,,low_input
+168,PCN XYGE PERE DNA Extractions (LG) P14-16,14,7,2,P14F7I2,1,0.742,16,11.872,,low_input
+169,PCN XYGE PERE DNA Extractions (LG) P14-16,14,8,2,P14F8I2,1,1.53,16,24.48,,low_input
+175,PCN XYGE PERE DNA Extractions (LG) P14-16,14,16,1,P14F16I1,1,4.6,9,41.4,,low_input
+176,PCN XYGE PERE DNA Extractions (LG) P14-16,14,17,2,P14F17I2,1,1.14,9,10.26,,low_input
+177,PCN XYGE PERE DNA Extractions (LG) P14-16,14,18,1,P14F18I1,1,0.940,12,11.28,,low_input
+178,PCN XYGE PERE DNA Extractions (LG) P14-16,14,19,2,P14F19I2,1,2.56,12,30.72,,low_input
+179,PCN XYGE PERE DNA Extractions (LG) P14-16,14,20,3,P14F20I3,1,2.82,14,39.48,,low_input
+183,PCN XYGE PERE DNA Extractions (LG) P14-16,14,25,3,P14F25I3,1,1.12,10,11.2,,low_input
+186,PCN XYGE PERE DNA Extractions (LG) P14-16,14,28,3,P14F28I3,1,2.58,10,25.8,,low_input
+187,PCN XYGE PERE DNA Extractions (LG) P14-17,14,29,1,P14F29I1,1,1.50,32,48,,low_input
+194,PCN XYGE PERE DNA Extractions (LG) P14-16,15,2,2,P15F2I2,1,5.84,3,17.52,,low_input
+195,PCN XYGE PERE DNA Extractions (LG) P14-16,15,3,1,P15F3I1,1,5.62,2,11.24,,low_input
+199,PCN XYGE PERE DNA Extractions (LG) P14-16,15,7,3,P15F7I3,1,3.94,4,15.76,,low_input
+200,PCN XYGE PERE DNA Extractions (LG) P14-16,15,8,1,P15F8I1,1,1.55,9,13.95,,low_input
+201,PCN XYGE PERE DNA Extractions (LG) P14-16,15,10,1,P15F10I1,1,2.86,10,28.6,,low_input
+202,PCN XYGE PERE DNA Extractions (LG) P14-16,15,11,1,P15F11I1,1,2.06,15,30.9,,low_input
+203,PCN XYGE PERE DNA Extractions (LG) P14-16,15,12,1,P15F12I1,1,5.30,3,15.9,,low_input
+205,PCN XYGE PERE DNA Extractions (LG) P14-16,15,14,1,P15F14I1,1,10.2,2,20.4,,low_input
+206,PCN XYGE PERE DNA Extractions (LG) P14-16,15,15,2,P15F15I2,1,2.12,20,42.4,,low_input
+207,PCN XYGE PERE DNA Extractions (LG) P14-16,15,16,1,P15F16I1,1,10.2,2,20.4,,low_input
+208,PCN XYGE PERE DNA Extractions (LG) P14-16,15,17,2,P15F17I2,1,2.16,10,21.6,,low_input
+209,PCN XYGE PERE DNA Extractions (LG) P14-16,15,18,1,P15F18I1,1,2.54,40,101.6,,low_input
+210,PCN XYGE PERE DNA Extractions (LG) P14-16,15,19,1,P15F19I1,1,4.38,12,52.56,,low_input
+211,PCN XYGE PERE DNA Extractions (LG) P14-16,15,20,2,P15F20I2,1,0.394,27,10.638,,low_input
+212,PCN XYGE PERE DNA Extractions (LG) P14-16,16,1,2,P16F1I2,1,3.68,5,18.4,,low_input
+213,PCN XYGE PERE DNA Extractions (LG) P14-16,16,2,1,P16F2I1,1,1.90,13,24.7,,low_input
+214,PCN XYGE PERE DNA Extractions (LG) P14-16,16,6,3,P16F6I3,1,2.62,4,10.48,,low_input
+215,PCN XYGE PERE DNA Extractions (LG) P14-16,16,7,1,P16F7I1,1,1.84,25,46,SIDE & TOP LABELS DIFFERE,low_input
+216,PCN XYGE PERE DNA Extractions (LG) P14-16,16,9,2,P16F9I2,1,3.48,3,10.44,,low_input
+217,PCN XYGE PERE DNA Extractions (LG) P14-16,16,11,1,P16F11I1,1,2.90,11,31.9,,low_input
+218,PCN XYGE PERE DNA Extractions (LG) P14-16,16,13,2,P16F13I2,1,4.38,42,183.96,,low_input
+278,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,1,4,1,P1F4I1,1,8.26,4,33.04,,low_input
+279,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,11,1,P3F11I1,1,3.86,5,19.3,small tube,low_input
+280,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,8,1,P3F8I1,1,3.08,5,15.4,small tube,low_input
+281,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,20,3,P3F20I3,1,33.0,7,231,,low_input
+282,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,9,1,P3F9I1,1,15.9,9,143.1,,low_input
+284,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,26,1,P3F26I1,1,3.92,12,47.04,,low_input
+285,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,16,2,P3F16I2,1,10.5,10,105,,low_input
+286,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,24,4,P3F24I4,1,3.16,7,22.12,small tube,low_input
+287,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,25,1,P4F25I1,1,22.8,5,114,,low_input
+288,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,19,1,P4F19I1,1,16.2,11,178.2,,low_input
+291,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,2,2,P4F2I2,1,2.00,28,56,,low_input
+292,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,18,1,P4F18I1,1,4.68,32,149.76,,low_input
+295,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,16,3,P4F16I3,1,1.62,40,64.8,,low_input
+296,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,29,2,P4F29I2,1,1.63,33,53.79,,low_input
+297,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,4,1,P4F4I1,1,2.36,35,82.6,,low_input
+298,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,20,1,P4F20I1,1,4.14,14,57.96,,low_input
+301,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,6,21,4,P6F21I4,1,1.10,15,16.5,,low_input
+303,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,6,3,3,P6F3I3,1,3.36,6,20.16,,low_input
+304,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,6,12,2,P6F12I2,1,1.14,13,14.82,,low_input
+305,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,6,17,4,P6F17I4,1,2.80,12,33.6,,low_input
+310,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,8,24,1,P8F24I1,1,35.2,5,176,,low_input
+311,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,8,25,1,P8F25I1,1,34.0,1,34,,low_input
+320,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,12,4,2,P12F4I2,1,6.42,22,141.24,2,low_input
+323,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,13,26,2,P13F26I2,1,4.04,23,92.92,,low_input
+5,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,12,3,P3F12I3,NA,NA,NA,NA,small tube,NA
+6,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,13,2,P3F13I2,NA,NA,NA,NA,,NA
+12,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,23,3,P3F23I3,NA,NA,NA,NA,,NA
+16,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,5,3,P4F5I3,NA,NA,NA,NA,,NA
+19,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,32,3,P4F32I3,NA,NA,NA,NA,,NA
+37,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,6,7,1,P6F7I1,NA,NA,NA,NA,,NA
+42,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,31,1,P7F31I1,1,< 0.50,NA,NA,sample too low,NA
+43,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,29,1,P7F29I1,NA,NA,NA,NA,,NA
+56,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,24,2,P8F24I2,NA,NA,NA,NA,,NA
+57,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,8,1,P8F8I1,NA,NA,NA,NA,,NA
+62,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,22,4,P9F22I4,1,< 0.50,NA,NA,,NA
+69,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,27,2,P9F27I2,NA,NA,NA,NA,,NA
+80,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,10,2,3,P10F2I3,NA,NA,NA,NA,,NA
+93,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,18,1,P10F18I1,1,< 0.5,NA,NA,,NA
+95,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,6,3,P10F6I3,,< 0.5,NA,NA,,NA
+97,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,2,1,P11F2I1,NA,,NA,NA,,NA
+99,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,1,1,P11F1I1,NA,,NA,NA,,NA
+100,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,11,1,P11F11I1,NA,,NA,NA,,NA
+101,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,4,2,P11F4I2,NA,,NA,NA,,NA
+102,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,13,1,P11F13I1,NA,,NA,NA,,NA
+109,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,20,1,P11F20I1,NA,,NA,NA,,NA
+111,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,22,3,P11F22I3,NA,,NA,NA,,NA
+112,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,10,1,P11F10I1,NA,,NA,NA,,NA
+113,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,12,1,P11F12I1,NA,,NA,NA,,NA
+115,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,19,1,P11F19I1,NA,,NA,NA,,NA
+116,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,23,1,P11F23I1,NA,,NA,NA,,NA
+117,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,14,1,P11F14I1,NA,,NA,NA,,NA
+118,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,24,2,P11F24I2,NA,,NA,NA,,NA
+123,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,22,4,P12F22I4,NA,NA,NA,NA,,NA
+131,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,6,2,P12F6I2,NA,NA,NA,NA,,NA
+138,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,28,3,P12F28I3,NA,NA,NA,NA,,NA
+140,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,7,3,P13F7I3,NA,NA,NA,NA,,NA
+146,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,9,2,P13F9I2,NA,NA,NA,NA,,NA
+160,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,19,2,P13F19I2,NA,NA,NA,NA,,NA
+167,PCN XYGE PERE DNA Extractions (LG) P14-16,14,6,1,P14F6I1,1,< 0.50,14,NA,,NA
+170,PCN XYGE PERE DNA Extractions (LG) P14-16,14,9,4,P14F9I4,1,< 0.50,5,NA,,NA
+171,PCN XYGE PERE DNA Extractions (LG) P14-16,14,10,3,P14F10I3,1,< 0.50,5,NA,,NA
+172,PCN XYGE PERE DNA Extractions (LG) P14-16,14,12,1,P14F12I1,1,< 0.50,10,NA,,NA
+173,PCN XYGE PERE DNA Extractions (LG) P14-16,14,11,2,P14F11I2,NA,NA,NA,NA,,NA
+184,PCN XYGE PERE DNA Extractions (LG) P14-16,14,26,1,P14F26I1,1,< 0.50,1,NA,,NA
+188,PCN XYGE PERE DNA Extractions (LG) P14-16,14,30,3,P14F30I3,1,< 0.50,4,NA,,NA
+192,PCN XYGE PERE DNA Extractions (LG) P14-16,14,23,1,P14F23I1,1,< 0.50,10,NA,,NA
+306,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,7,23,2,P7F23I2,NA,NA,NA,NA,,NA
+307,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,7,9,3,P7F9I3,NA,NA,NA,NA,,NA
+308,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,9,26,2,P9F26I2,NA,NA,NA,NA,,NA
+309,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,7,33,1,P7F33I1,NA,NA,NA,NA,1,NA
+312,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,8,19,2,P8F19I2,NA,NA,NA,NA,,NA
+315,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,12,24,1,P12F24I1,NA,NA,NA,NA,,NA
+316,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,12,14,1,P12F14I1,NA,NA,NA,NA,,NA
+317,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,12,15,2,P12F15I2,NA,NA,NA,NA,,NA
+318,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,12,1,1,P12F1I1,1,<0.5,NA,NA,12,NA
+319,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,12,20,1,P12F20I1,NA,NA,NA,NA,,NA
+321,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,13,24,4,P13F24I4,NA,NA,NA,NA,,NA
+322,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,13,12,2,P13F12I2,NA,NA,NA,NA,,NA
+324,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,13,26,1,P13F26I1,NA,NA,NA,NA,,NA
+325,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,13,29,3,P13F29I3,NA,NA,NA,NA,,NA
+9,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,19,4,P3F19I4,1,4.26,80,340.8,,Standard
+17,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,7,1,P4F7I1,1,27.8,40,1112,,Standard
+18,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,9,3,P4F9I3,1,19.9,20,398,,Standard
+20,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,17,1,P4F17I1,1,13.2,40,528,,Standard
+45,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,33,2,P7F33I2,1,28.4,15,426,,Standard
+51,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,20,1,P7F20I1,1,27.6,13,358.8,,Standard
+64,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,18,1,P9F18I1,1,67.8,12,813.6,,Standard
+65,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,13,2,P9F13I2,1,1.07,400,428,SOOO MUCH VOLUME,Standard
+71,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,15,3,P9F15I3,1,66.4,18,1195.2,,Standard
+72,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,20,3,P9F20I3,1,19.6,15,294,,Standard
+73,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,18,2,P9F18I2,1,52.4,21,1100.4,,Standard
+85,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,29,1,P10F29I1,1,25.2,23,579.6,,Standard
+88,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,33,2,P10F33I2,1,37.0,7,259,,Standard
+129,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,4,2,P12F4I2,1,26.0,40,1040,,Standard
+130,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,25,4,P12F25I4,1,4.5,80,360,,Standard
+137,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,19,3,P12F19I3,1,8.00,60,480,,Standard
+289,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,21,1,P4F21I1,1,10.7,40,428,,Standard
+290,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,14,3,P4F14I3,1,13.3,40,532,,Standard
+313,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,9,5,2,P9F5I2,1,8.00,75,600,,Standard
+314,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,9,19,2,P9F19I2,1,7.06,85,600.1,,Standard
+326,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,120,6,720,2,Standard
+327,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,102,16,1632,3; I'M ADDING 'A' TO LABEL,Standard
+328,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,23.4,17,397.8,3; I'M ADDING 'B' TO LABEL,Standard
+329,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,38.0,12,456,4,Standard
+330,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,78.4,11,862.4,8,Standard
+331,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,40.6,13,527.8,7,Standard
+332,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,86.4,11,950.4,5,Standard
+333,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,15,2,1,P15F2I1,1,25.0,11,275,11,Standard
+7,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,14,2,P3F14I2,1,0.868,10,8.68,small tube,ultra_low_input
+11,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,3,21,3,P3F21I3,1,1.13,3,3.39,small tube,ultra_low_input
+15,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,27,1,P4F27I1,1,0.972,10,9.72,,ultra_low_input
+23,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,30,2,P4F30I2,1,0.17,5,0.85,,ultra_low_input
+24,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,4,31,1,P4F31I1,1,0.202,9,1.818,,ultra_low_input
+25,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,32,2,P5F32I2,1,0.324,9,2.916,,ultra_low_input
+26,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,5,18,3,P5F18I3,1,1.13,3,3.39,,ultra_low_input
+50,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,7,7,1,P7F7I1,1,0.152,10,1.52,,ultra_low_input
+74,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,9,4,3,P9F4I3,1,0.438,21,9.198,,ultra_low_input
+75,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,10,7,3,P10F7I3,1,0.222,3,0.666,,ultra_low_input
+76,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,10,4,1,P10F4I1,1,0.246,25,6.15,,ultra_low_input
+77,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,10,5,4,P10F5I4,1,0.422,22,9.284,,ultra_low_input
+78,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,10,1,1,P10F1I1,1,0.686,2,1.372,,ultra_low_input
+79,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,10,15,2,P10F15I2,1,0.204,25,5.1,,ultra_low_input
+90,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,8,3,P10F8I3,1,1.13,2,2.26,,ultra_low_input
+91,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,11,3,P10F11I3,1,1.40,3,4.2,,ultra_low_input
+92,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,10,24,2,P10F24I2,1,0.478,9,4.302,,ultra_low_input
+103,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,8,2,P11F8I2,,0.564,5,2.82,,ultra_low_input
+105,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,16,3,P11F16I3,,0.986,5,4.93,,ultra_low_input
+108,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,11,9,2,P11F9I2,,0.552,6,3.312,,ultra_low_input
+132,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,13,1,P12F13I1,1,1.04,5,5.2,,ultra_low_input
+133,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,27,2,P12F27I2,1,0.358,12,4.296,,ultra_low_input
+134,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,14,4,P12F14I4,1,0.420,11,4.62,,ultra_low_input
+135,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,31,3,P12F31I3,1,1.64,6,9.84,,ultra_low_input
+144,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,13,9,1,P13F9I1,1,1.17,6,7.02,,ultra_low_input
+164,PCN XYGE PERE DNA Extractions (LG) P14-16,14,2,1,P14F2I1,1,0.320,12,3.84,,ultra_low_input
+174,PCN XYGE PERE DNA Extractions (LG) P14-16,14,15,1,P14F15I1,1,2.26,2,4.52,,ultra_low_input
+180,PCN XYGE PERE DNA Extractions (LG) P14-16,14,21,1,P14F21I1,1,0.210,15,3.15,,ultra_low_input
+181,PCN XYGE PERE DNA Extractions (LG) P14-16,14,22,2,P14F22I2,1,1.92,4,7.68,,ultra_low_input
+182,PCN XYGE PERE DNA Extractions (LG) P14-16,14,24,1,P14F24I1,1,2.94,2,5.88,,ultra_low_input
+189,PCN XYGE PERE DNA Extractions (LG) P14-16,14,31,2,P14F31I2,1,0.540,6,3.24,,ultra_low_input
+190,PCN XYGE PERE DNA Extractions (LG) P14-16,14,32,3,P14F32I3,1,1.05,3,3.15,,ultra_low_input
+191,PCN XYGE PERE DNA Extractions (LG) P14-16,15,9,1,P15F9I1,1,2.80,3,8.4,,ultra_low_input
+196,PCN XYGE PERE DNA Extractions (LG) P14-16,15,4,1,P15F4I1,1,2.34,3,7.02,,ultra_low_input
+197,PCN XYGE PERE DNA Extractions (LG) P14-16,15,5,4,P15F5I4,1,3.4,2,6.8,,ultra_low_input
+198,PCN XYGE PERE DNA Extractions (LG) P14-16,15,6,2,P15F6I2,1,0.556,3,1.668,,ultra_low_input
+204,PCN XYGE PERE DNA Extractions (LG) P14-16,15,13,2,P15F13I2,1,6.16,1,6.16,,ultra_low_input
+283,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,3,23,1,P3F23I1,1,1.49,5,7.45,,ultra_low_input
+293,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,26,2,P4F26I2,1,5.50,1,5.5,,ultra_low_input
+294,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,4,32,1,P4F32I1,1,1.42,7,9.94,,ultra_low_input
+299,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,5,30,2,P5F30I2,1,1.12,5,5.6,,ultra_low_input
+300,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,5,25,2,P5F25I2,1,0.498,6,2.988,,ultra_low_input
+302,PCN XYGE PERE DNA Extractions (LG) Additional Tubes,6,5,4,P6F5I4,1,1.64,5,8.2,,ultra_low_input
+55,PCN XYGE PERE DNA Extractions (LG) P3 - P10pt1,8,18,1,P8F18I1,1,19.9,0,0,,
+124,PCN XYGE PERE DNA Extractions (LG) P10pt2 - P13,12,3,2,P12F3I2,1,14.7,0,0,,
+185,PCN XYGE PERE DNA Extractions (LG) P14-16,14,27,2,P14F27I2,NA,,,0,,
+193,PCN XYGE PERE DNA Extractions (LG) P14-16,15,1,2,P15F1I2,1,11.5,0,0,,
+219,PCN XYGE PERE DNA Extractions (LG) Duplicates,7,33,2,P7F33I2,,,,0,1,
+220,PCN XYGE PERE DNA Extractions (LG) Duplicates,7,33,2,P7F33I2,,,,0,2,
+221,PCN XYGE PERE DNA Extractions (LG) Duplicates,7,33,2,P7F33I2,,,,0,3,
+222,PCN XYGE PERE DNA Extractions (LG) Duplicates,7,33,2,P7F33I2,,,,0,4,
+223,PCN XYGE PERE DNA Extractions (LG) Duplicates,7,33,2,P7F33I2,,,,0,5,
+224,PCN XYGE PERE DNA Extractions (LG) Duplicates,7,33,2,P7F33I2,,,,0,6,
+225,PCN XYGE PERE DNA Extractions (LG) Duplicates,7,33,2,P7F33I2,,,,0,2,
+226,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,1,
+227,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,2,
+228,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,3,
+229,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,4,
+230,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,5,
+231,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,6,
+232,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+233,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+234,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+235,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+236,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+237,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+238,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+239,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,1,1,P12F1I1,,,,0,label on side?,
+240,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,1,
+241,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,2,
+242,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,3,
+243,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,4,
+244,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,5,
+245,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,6,
+246,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,7,
+247,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,8,
+248,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,9,
+249,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,1,
+250,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,2,
+251,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,3,
+252,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,4,
+253,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,5,
+254,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,6,
+255,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,7,
+256,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,8,
+257,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,9,
+258,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,10,
+259,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,11,
+260,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,12,
+261,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,3,2,P12F3I2,,,,0,13,
+262,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,4,4,P12F4I4,,,,0,3,
+263,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,4,4,P12F4I4,,,,0,2,
+264,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,4,4,P12F4I4,,,,0,4,
+265,PCN XYGE PERE DNA Extractions (LG) Duplicates,12,4,4,P12F4I4,,,,0,12,
+266,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,label on side?,
+267,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,label on side?,
+268,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,label on side?,
+269,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,label on side?,
+270,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,label on side?,
+271,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,label on side?,
+272,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,label on side?,
+273,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,2,1,P15F2I1,,,,0,1,
+274,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,6,3,P15F6I3,,,,0,1,
+275,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,6,3,P15F6I3,,,,0,label on side?,
+276,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,6,3,P15F6I3,,,,0,label on side?,
+277,PCN XYGE PERE DNA Extractions (LG) Duplicates,15,6,3,P15F6I3,,,,0,label on side?,
